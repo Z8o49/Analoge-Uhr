@@ -1,6 +1,6 @@
 # Analog Clock Project
 
-This project is an **analog clock** created using **HTML, CSS, and JavaScript**.  
+This project is an analog clock created using HTML, CSS, and JavaScript.  
 The clock features three hands (hour, minute, and second) that correctly display the current time in real-time. The second hand updates dynamically according to the actual seconds. The clock is responsive and works seamlessly on both desktop and mobile devices. The code is clean, well-structured, and easy to understand. The time zone is set to GMT+1.
 
 ## Features
